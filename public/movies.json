@@ -1,0 +1,247 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "Casablanca",
+            "release_year": 1942,
+            "genres": ["Drama", "Romance", "War"],
+            "director": "Michael Curtiz",
+            "production_house": "Warner Bros.",
+            "actors": ["Humphrey Bogart", "Ingrid Bergman"],
+            "rating": 8.5,
+            "poster": "https://www.originalfilmart.com/cdn/shop/products/casablanca_1942_R1970s_linen_original_film_art_5000x.jpg?v=1562543442",
+            "description": "A cynical American expatriate encounters old flames and new love while dealing with Nazis in Morocco during World War II."
+          },
+      {
+        "id": 2,
+        "name": "The Godfather",
+        "release_year": 1972,
+        "genres": ["Crime", "Drama"],
+        "director": "Francis Ford Coppola",
+        "production_house": "Paramount Pictures",
+        "actors": ["Marlon Brando", "Al Pacino"],
+        "rating": 9.2,
+        "poster": "https://m.media-amazon.com/images/I/41kZyW1HQFL._AC_SY580_.jpg",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+      },
+      {
+        "id": 3,
+        "name": "The Dark Knight",
+        "release_year": 2008,
+        "genres": ["Action", "Crime", "Drama"],
+        "director": "Christopher Nolan",
+        "production_house": "Warner Bros.",
+        "actors": ["Christian Bale", "Heath Ledger"],
+        "rating": 9.0,
+        "poster": "https://originalvintagemovieposters.com/wp-content/uploads/2020/03/Dark-Knight-70822-scaled.jpg",
+        "description": "When the menace known as The Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice."
+      },
+      {
+        "id": 4,
+        "name": "Pulp Fiction",
+        "release_year": 1994,
+        "genres": ["Crime", "Drama"],
+        "director": "Quentin Tarantino",
+        "production_house": "Miramax Films",
+        "actors": ["John Travolta", "Samuel L. Jackson"],
+        "rating": 8.9,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/pulp_fiction_grande_linen_original_film_art_2000x.jpg?v=1636671922",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+      },
+      {
+        "id": 5,
+        "name": "Schindler's List",
+        "release_year": 1993,
+        "genres": ["Biography", "Drama", "History"],
+        "director": "Steven Spielberg",
+        "production_house": "Universal Pictures",
+        "actors": ["Liam Neeson", "Ben Kingsley"],
+        "rating": 8.9,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/Schindler_slist_1993_french_r18_original_film_art_5fdeddbc-d1ac-450d-a940-ea6e263762c5_5000x.jpg?v=1646946299",
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+      },
+      {
+        "id": 6,
+        "name": "Forrest Gump",
+        "release_year": 1994,
+        "genres": ["Drama", "Romance"],
+        "director": "Robert Zemeckis",
+        "production_house": "Paramount Pictures",
+        "actors": ["Tom Hanks", "Robin Wright"],
+        "rating": 8.8,
+        "poster": "https://www.originalfilmart.com/cdn/shop/files/forrest_gump_1991_original_film_art_5000x.webp?v=1700679183",
+        "description": "The presidencies of Kennedy through Clinton are seen through the eyes of a simple man with a low I.Q."
+      },
+      {
+        "id": 7,
+        "name": "Inception",
+        "release_year": 2010,
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "production_house": "Warner Bros.",
+        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+        "rating": 8.8,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/inception_2010_original_film_art_b7dd1f8a-242f-44ac-917f-220972bfe6f7_5000x.jpg?v=1618884901",
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+      },
+      {
+        "id": 8,
+        "name": "The Matrix",
+        "release_year": 1999,
+        "genres": ["Action", "Sci-Fi"],
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "production_house": "Warner Bros.",
+        "actors": ["Keanu Reeves", "Laurence Fishburne"],
+        "rating": 8.7,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/the_matrix_1999_bus_stop_original_film_art_5000x.jpg?v=1593131403",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+      },
+      {
+        "id": 9,
+        "name": "The Silence of the Lambs",
+        "release_year": 1991,
+        "genres": ["Crime", "Drama", "Thriller"],
+        "director": "Jonathan Demme",
+        "production_house": "Orion Pictures",
+        "actors": ["Jodie Foster", "Anthony Hopkins"],
+        "rating": 8.6,
+        "poster": "https://i.pinimg.com/originals/f6/f8/8d/f6f88d0523598e6be46d1c9dd35e3e85.jpg",
+        "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+      },
+      {
+        "id": 10,
+        "name": "The Lord of the Rings: The Return of the King",
+        "release_year": 2003,
+        "genres": ["Action", "Adventure", "Drama"],
+        "director": "Peter Jackson",
+        "production_house": "New Line Cinema",
+        "actors": ["Elijah Wood", "Viggo Mortensen"],
+        "rating": 8.9,
+        "poster": "https://www.originalfilmart.com/cdn/shop/files/LordoftheRingsReturnoftheKing_2003_teaser_original_film_art_5000x.webp?v=1683902859",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      },
+      {
+        "id": 11,
+        "name": "The Departed",
+        "release_year": 2006,
+        "genres": ["Crime", "Drama", "Thriller"],
+        "director": "Martin Scorsese",
+        "production_house": "Warner Bros.",
+        "actors": ["Leonardo DiCaprio", "Jack Nicholson"],
+        "rating": 8.5,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/departed_2006_original_film_art_921946c9-5eaa-43a5-9425-2e13cb2de4ac_5000x.jpg?v=1679940744",
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston."
+      },
+      {
+        "id": 12,
+        "name": "Gladiator",
+        "release_year": 2000,
+        "genres": ["Action", "Adventure", "Drama"],
+        "director": "Ridley Scott",
+        "production_house": "DreamWorks",
+        "actors": ["Russell Crowe", "Joaquin Phoenix"],
+        "rating": 8.5,
+        "poster": "https://www.originalposter.co.uk/uploads/833797633647918_mainphoto.jpg",
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+      },
+      {
+        "id": 13,
+        "name": "The Green Mile",
+        "release_year": 1999,
+        "genres": ["Crime", "Drama", "Fantasy"],
+        "director": "Frank Darabont",
+        "production_house": "Warner Bros.",
+        "actors": ["Tom Hanks", "Michael Clarke Duncan"],
+        "rating": 8.6,
+        "poster": "https://posterfreaks.co.uk/cdn/shop/products/20210219_154521_2000x.jpg?v=1613940004",
+        "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+      },
+      {
+        "id": 14,
+        "name": "The Prestige",
+        "release_year": 2006,
+        "genres": ["Drama", "Mystery", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "production_house": "Touchstone Pictures",
+        "actors": ["Christian Bale", "Hugh Jackman"],
+        "rating": 8.5,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/prestige_2006_english_advance_original_film_art_5000x.jpg?v=1551795612",
+        "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+      },
+      {
+        "id": 15,
+        "name": "Fight Club",
+        "release_year": 1999,
+        "genres": ["Drama"],
+        "director": "David Fincher",
+        "production_house": "20th Century Fox",
+        "actors": ["Brad Pitt", "Edward Norton"],
+        "rating": 8.8,
+        "poster": "http://minimovieposters.com/cdn/shop/products/MPW-113527-a_1024x1024.jpg?v=1571439884",
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+      },
+      {
+        "id": 16,
+        "name": "The Shawshank Redemption",
+        "release_year": 1994,
+        "genres": ["Drama"],
+        "director": "Frank Darabont",
+        "production_house": "Columbia Pictures",
+        "actors": ["Tim Robbins", "Morgan Freeman"],
+        "rating": 9.3,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/shawshank_redemption_R04_original_film_art_d6143a10-40d8-483f-be6f-76a715c3d84d_5000x.jpg?v=1644085657",
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency."
+
+
+      },
+      {
+        "id": 17,
+        "name": "The Godfather: Part II",
+        "release_year": 1974,
+        "genres": ["Crime", "Drama"],
+        "director": "Francis Ford Coppola",
+        "production_house": "Paramount Pictures",
+        "actors": ["Al Pacino", "Robert De Niro"],
+        "rating": 9.0,
+        "poster": "https://atthemovies.uk/cdn/shop/products/Template_e30c871c-c49a-4b27-a7e0-383db95e5188.jpg?v=1653302824",
+        "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+      },
+      {
+        "id": 18,
+        "name": "The Usual Suspects",
+        "release_year": 1995,
+        "genres": ["Crime", "Drama", "Mystery"],
+        "director": "Bryan Singer",
+        "production_house": "Gramercy Pictures",
+        "actors": ["Kevin Spacey", "Gabriel Byrne"],
+        "rating": 8.5,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/usual_suspects_1995_original_film_art_ef9998dc-62be-47c0-92c5-d58632b646a4_5000x.jpg?v=1582620183",
+        "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+
+      },
+      {
+        "id": 19,
+        "name": "Se7en",
+        "release_year": 1995,
+        "genres": ["Crime", "Drama", "Mystery"],
+        "director": "David Fincher",
+        "production_house": "New Line Cinema",
+        "actors": ["Morgan Freeman", "Brad Pitt"],
+        "rating": 8.6,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/seven_1995_original_film_art_5000x.webp?v=1678916276",
+        "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+      },
+      {
+        "id": 20,
+        "name": "City of God",
+        "release_year": 2002,
+        "genres": ["Crime", "Drama"],
+        "director": "Fernando Meirelles, Kátia Lund",
+        "production_house": "Miramax Films",
+        "actors": ["Alexandre Rodrigues", "Leandro Firmino"],
+        "rating": 8.6,
+        "poster": "https://www.originalfilmart.com/cdn/shop/products/CityofGod_2002_original_film_art_4a63eed3-6dba-4b88-b167-f21ebc6c812b_5000x.jpg?v=1591219743",
+        "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+      }
+    ]
+  }
