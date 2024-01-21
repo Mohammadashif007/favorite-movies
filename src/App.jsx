@@ -1,4 +1,4 @@
-// import Hero from "./components/Hero/Hero"
+import Hero from "./components/Hero/Hero"
 import Movies from "./components/Movies/Movies"
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      {/* <Hero></Hero> */}
+      <Hero></Hero>
       <Movies></Movies>
     </>
   )

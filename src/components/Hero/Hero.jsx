@@ -1,23 +1,25 @@
+import "keen-slider/keen-slider.min.css";
+import { useKeenSlider } from "keen-slider/react";
+import b1 from "../../assets/b1.jpg";
+import b2 from "../../assets/b2.jpg";
+import b3 from "../../assets/b3.jpg";
+import b4 from "../../assets/b4.jpg";
+
 const Hero = () => {
+    const [sliderRef] = useKeenSlider();
     return (
-        <div
-            className="hero min-h-screen"
-            style={{
-                backgroundImage:
-                    "url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)",
-            }}
-        >
-            <div className="hero-overlay bg-opacity-60"></div>
-            <div className="hero-content text-center text-neutral-content">
-                <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
-                    <p className="mb-5">
-                        Provident cupiditate voluptatem et in. Quaerat fugiat ut
-                        assumenda excepturi exercitationem quasi. In deleniti
-                        eaque aut repudiandae et a id nisi.
-                    </p>
-                    <button className="btn btn-primary">Get Started</button>
-                </div>
+        <div ref={sliderRef} className="keen-slider h-[400px]">
+            <div className="keen-slider__slide">
+                <img className="w-full" src={b1} alt="" />
+            </div>
+            <div className="keen-slider__slide">
+                <img className="w-full" src={b2} alt="" />
+            </div>
+            <div className="keen-slider__slide">
+                <img className="w-full" src={b3} alt="" />
+            </div>
+            <div className="keen-slider__slide">
+                <img className="w-full" src={b4} alt="" />
             </div>
         </div>
     );

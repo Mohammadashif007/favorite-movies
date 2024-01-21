@@ -4,7 +4,6 @@ import Movie from "../Movie/Movie";
 
 const Movies = () => {
     const [movies, setMovies] = useState([]);
-    console.log(movies);
     useEffect(() => {
         fetch("movies.json")
             .then((res) => res.json())
